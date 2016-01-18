@@ -1,0 +1,12 @@
+{
+    "name": "admin/composer-lab-assets",
+    "authors": [
+        {
+            "name": "SzuMei",
+            "email": "mayhuang@nfu.edu.tw"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^1.21"
+    }
+}
